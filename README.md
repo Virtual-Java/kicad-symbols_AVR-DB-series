@@ -40,3 +40,5 @@ DB --> series
 '-M' --> QFN  package
 
 e.g. AVR128DB64-M --> 128kB flash; DB-series; 64-pins; QFN-package
+
+![MCU_Microchip_DB_examples-alternative-pin-functions](https://github.com/Virtual-Java/kicad-symbols_AVR-DB-series/blob/master/examples/MCU_Microchip_DB_examples/MCU_Microchip_DB_examples-alternative-pin-functions.png)
